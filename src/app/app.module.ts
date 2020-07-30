@@ -16,6 +16,8 @@ import { AuthModule } from "./auth/auth.module";
     NopagefoundComponent,
     
     
+    
+    
   ],
   imports: [
     BrowserModule,
